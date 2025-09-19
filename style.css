@@ -53,3 +53,10 @@ img:hover {
   font-style: normal;
   text-align: center;
 }
+
+@media (max-width: 800px) {
+  .grid_1_1_1_1_1 {
+    grid-template-columns: 248px;
+    justify-content: center;
+  }
+}
