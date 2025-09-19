@@ -5,7 +5,7 @@
   justify-content: center;
 }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 850px) {
   .grid_1_1_1_1_1 {
     grid-template-columns: 1fr;
     justify-content: center;
